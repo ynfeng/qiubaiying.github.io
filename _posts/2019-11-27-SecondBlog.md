@@ -1,12 +1,12 @@
 ---
 layout:     post   				    
-title:      My First Post 			
-subtitle:   Hello World, Hello Blog #副标题
+title:      博客测试 			
+subtitle:   测试
 date:       2019-11-27 			
 author:     冯 			
 header-img: img/post-bg-2015.jpg 
 catalog: true 		
-    - 生活
+    - 技术
 ---
 
 ## Hey
