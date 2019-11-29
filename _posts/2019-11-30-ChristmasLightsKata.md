@@ -6,7 +6,8 @@ date:       2019-11-29
 author:     冯
 header-img: img/post-bg-2015.jpg
 catalog: true
-    - TDD
+tags:
+  - TDD
 ---
 
 > 这是一个tdd练习题目，本文记录了本次kata的思考和练习过程。
